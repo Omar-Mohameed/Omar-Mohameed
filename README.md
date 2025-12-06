@@ -4,71 +4,65 @@
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I’m an aspiring **Back-End Developer** and a **Computer Science student**.
-- 🎯 Currently learning and applying **Design Patterns** and **SOLID principles**.
-- 💡 Passionate about building clean, scalable, and maintainable backend systems.
-- ⚙️ Skilled in **C#**, **.NET Core**, **EF Core**, and **SQL Server**, and **API**.
-- 📚 Always striving to improve and explore new technologies.
+- 👨‍💻 Aspiring **Back-End Developer** and **Computer Science student**.
+- 🎯 Learning **Design Patterns** & **SOLID**.
+- ⚙️ Skilled in **C#**, **.NET Core**, **EF Core**, **SQL Server**, **REST API**.
+- 💡 Focused on clean, scalable backend systems.
 
 ---
 
-### 🛠️ My Skills
+### 🛠️ Skills
 
 #### 👨‍💻 Programming Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 #### ⚙️ Back-End Development  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-ASP.NET-blueviolet?style=flat)
-![REST API](https://img.shields.io/badge/REST-API-lightgrey)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-MVC-blueviolet?style=flat-square)
+![REST API](https://img.shields.io/badge/REST-API-grey?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 #### 💻 Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-75a72a2a9)
-
----
-### 📦 My Repositories
-
-<table>
-  <tr>
-    <td width="100%">
-      <a href="https://github.com/Omar-Mohameed/EcommerceApi.net8">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mohameed&repo=EcommerceApi.net8&theme=tokyonight" />
-      </a>
-      <p><strong>🚀 API Features:</strong></p>
-      <ul>
-        <li>🧱 Clean Architecture</li>
-        <li>🔐 JWT Authentication & Authorization</li>
-        <li>🛍️ Products & Orders domain modeling</li>
-        <li>🧾 DTO Mapping for secure data handling</li>
-        <li>📦 Repository + Unit of Work patterns</li>
-        <li>💾 EF Core with migrations</li>
-        <li>🚀 Redis caching</li>
-        <li>⚠️ Global error handling middleware</li>
-        <li>📤 Data seeding from JSON</li>
-        <li>📑 Swagger UI integration</li>
-        <li>📮 Postman Collection included</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-75a72a2a9)
 
 ---
+
+### 📦 Featured Repository
+
+<a href="https://github.com/Omar-Mohameed/EcommerceApi.net8">
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Omar-Mohameed&repo=EcommerceApi.net8&theme=tokyonight" />
+</a>
+
+**🚀 API Features:**
+- Clean Architecture  
+- JWT Auth & Authorization  
+- Products & Orders Domains  
+- DTO Mapping  
+- Repository + Unit of Work  
+- EF Core + Migrations  
+- Redis Caching  
+- Global Error Middleware  
+- JSON Seeding  
+- Swagger UI  
+- Postman Collection  
+
+---
+
 ### 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-streak-stats-eight.vercel.app?user=Omar-Mohameed&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+**🔥 Streak:**
+![Streak](https://streak-stats.demolab.com?user=Omar-Mohameed&theme=algolia)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mohameed&layout=compact&theme=radical)
+**📌 Most Used Languages:**
+![Top Languages](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Omar-Mohameed&layout=compact&theme=radical)
 
 ---
 
@@ -77,6 +71,6 @@
 - Adaptability  
 - Time Management  
 - Problem Solving  
-- Research & Planning
+- Research & Planning  
 
 ---
