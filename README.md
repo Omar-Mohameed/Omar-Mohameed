@@ -70,7 +70,9 @@
 ### 📊 GitHub Stats
 
 **🔥 Streak:**
-![Streak](https://streak-stats.demolab.com?user=Omar-Mohameed&theme=algolia)
+<!--![Streak](https://streak-stats.demolab.com?user=Omar-Mohameed&theme=algolia)-->
+![Omar's GitHub stats](https://github-readme-streak-stats-eight.vercel.app?user=Omar-Mohameed&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+
 
 **📌 Most Used Languages:**
 ![Top Languages](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Omar-Mohameed&layout=compact&theme=radical)
